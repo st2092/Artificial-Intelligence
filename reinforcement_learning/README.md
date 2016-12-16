@@ -1,6 +1,6 @@
 __Reinforcement Learning approach__:
 
-<img src ="http://puu.sh/iD6T6/379d729e2d.png" />
+<img src ="http://www.brightdevelopers.com/wp-content/uploads/2016/12/reinforcement_learning_approach.png" />
 
 __Assumptions__:
 - If the difference between an update after an iteration is less than a threshold amount, I assume convergence. The threshold amount is 1.0 x 10^-9.
